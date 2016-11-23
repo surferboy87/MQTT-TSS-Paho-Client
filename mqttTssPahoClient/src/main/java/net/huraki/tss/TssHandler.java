@@ -1,7 +1,7 @@
 package net.huraki.tss;
 
-import net.huraki.persistence.MapDBPersistence;
-import net.huraki.persistence.MapDBTssTopicStore;
+import net.huraki.tss.persistence.MapDBPersistence;
+import net.huraki.tss.persistence.MapDBTssTopicStore;
 
 public class TssHandler {
 	

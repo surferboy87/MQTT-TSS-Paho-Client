@@ -1,4 +1,4 @@
-package net.huraki.persistence;
+package net.huraki.tss.persistence;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

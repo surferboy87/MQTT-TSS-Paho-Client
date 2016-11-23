@@ -1,4 +1,4 @@
-package net.huraki.persistence;
+package net.huraki.tss.persistence;
 
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentMap;
